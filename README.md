@@ -1,0 +1,1 @@
+SQL migrations with Rust and [diesel](http://diesel.rs/)

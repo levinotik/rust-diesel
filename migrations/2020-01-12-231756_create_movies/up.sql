@@ -1,0 +1,6 @@
+CREATE TABLE movies (
+  id SERIAL PRIMARY KEY,
+  title VARCHAR NOT NULL,
+  director VARCHAR NOT NULL,
+  release_year INTEGER NOT NULL 
+);
